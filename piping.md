@@ -5,4 +5,4 @@ cat /proc/cpuinfo | wc
 ```
 ### Screenshot
 
-![piping](piping.png)
+![piping](screenshots/piping.png)
