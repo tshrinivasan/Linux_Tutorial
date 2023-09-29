@@ -24,7 +24,7 @@ date --date="next wed"
 date --date="next month"
 ```
 
-To set the system date and time
+To set the system date and time  
 **Note:** Need root permission hence use **sudo**.
 ```
 date --set="Wed Apr 27 14:20:55 IST 2022"
