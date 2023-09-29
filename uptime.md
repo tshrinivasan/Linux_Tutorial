@@ -24,5 +24,5 @@ uptime -s
 ```````
 ## Ex 
 *******
-[!uptime](screenshots/uptime.jpg)
+![uptime](screenshots/uptime.jpg)
 
