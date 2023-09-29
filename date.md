@@ -1,7 +1,6 @@
-# Linux_Tutorial
-## Date
+# Date
  
-To display date
+Date command is used to display date.
 
 ```
 date
