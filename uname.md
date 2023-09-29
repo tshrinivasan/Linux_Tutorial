@@ -1,5 +1,3 @@
-#Linux Commands
-
 ## uname
 ***********
 
@@ -30,6 +28,7 @@ $ uname -r
 
 ``````
 
-###Screenshot
+##Example 
+*********
 
 ![uname](screenshots/uname.jpg)
