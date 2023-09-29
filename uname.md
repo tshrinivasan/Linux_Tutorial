@@ -32,4 +32,4 @@ $ uname -r
 
 ###Screenshot
 
-![uname] (Screenshots/uname.jpg)
+![uname](screenshots/uname.jpg)
