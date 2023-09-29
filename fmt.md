@@ -6,4 +6,4 @@ paragraph in the files, writing to standard output
 ```
 
 ## screenshots
-[fmt](screenshots/fmt.jpg)
+![fmt](screenshots/fmt.jpg)
