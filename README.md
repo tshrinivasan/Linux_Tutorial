@@ -27,4 +27,10 @@ $ date --date="next month"
 To set the system date and time
 ```
 $ date --set="Wed Apr 27 14:20:55 IST 2022"
+
 ```
+
+### Screenshot
+![date](screenshots/date.jpg)
+
+
