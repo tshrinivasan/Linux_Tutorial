@@ -7,8 +7,8 @@ To get working directory path
 
 `````
 pwd
-
-`````
+``````````
 ## Screenshot
+***************
 
 ![pwd](screenshots/pwd.jpg)
