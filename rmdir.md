@@ -15,7 +15,9 @@ To remove multiple directories using rmdir
 rmdir sample_dir1 sample_dir2
 
 `````
+
 ## Screenshot
-![rmdir](screenshot/rmdir.jpg)
+
+![rmdir](screenshots/rmdir.jpg)
 
 

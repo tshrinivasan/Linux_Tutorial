@@ -30,5 +30,5 @@ wc -m file.txt
 
 ``````
 ## Screenshot
-![wc](screenshot/wc.jpg)
+![wc](screenshots/wc.jpg)
 

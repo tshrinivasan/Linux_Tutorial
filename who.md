@@ -27,5 +27,6 @@ To view the time of last system boot
 who -b
 
 `````
+
 ## Screenshot
-![who](screenshot/who.jpg)
+![who](screenshots/who.jpg)

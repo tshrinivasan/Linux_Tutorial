@@ -20,7 +20,8 @@ create a file secret.txt in somewhere in system
 locate secret.txt
 
 ````
+
 ## Screenshot
 
-![locate](screenshot/locate.jpg)
+![locate](screenshots/locate.jpg)
 
