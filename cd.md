@@ -11,7 +11,7 @@ cd /usr/share/
 ```````````````
 To change current directory to parent directory
 
-`````
+```
  cd ..
 ``````````
 
@@ -20,6 +20,7 @@ To change to home directory
 ````
 cd
 `````````
+
 ## Screenshot
 ***************
 
