@@ -28,7 +28,7 @@ $ uname -r
 
 ``````
 
-##Example 
+## Screenshot`
 *********
 
 ![uname](screenshots/uname.jpg)

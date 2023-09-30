@@ -22,7 +22,7 @@ running
 uptime -s
 
 ```````
-## Ex 
+## Screenshot
 *******
 ![uptime](screenshots/uptime.jpg)
 
