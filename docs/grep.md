@@ -43,5 +43,5 @@ grep -n "this" grep_example.txt
 ```
 
 ### Screenshot
-![date](screenshots/grep.jpg)
+![grep](screenshots/grep.jpg)
 
