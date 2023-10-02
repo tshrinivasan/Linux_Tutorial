@@ -11,7 +11,7 @@ uptime
 To show uptime in pretty format
 
 ```
-$ uptime -p
+uptime -p
 ```
 To display the date/time since when the system has been
 running
