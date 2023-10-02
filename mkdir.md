@@ -34,7 +34,6 @@ mkdir -m777 dir_1
 mkdir -m755 dir_2
 mkdir -m766 dir_3
 ```
-
 ## Screenshot
 ******************
 ![mkdir] (screenshots/mkdir1.jpg)
