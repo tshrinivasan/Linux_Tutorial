@@ -17,5 +17,3 @@ rmdir sample_dir1 sample_dir2
 ***************
 
 ![rmdir](screenshots/rmdir.jpg)
-
-
