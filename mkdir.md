@@ -36,4 +36,5 @@ mkdir -m766 dir_3
 ```
 ## Screenshot
 ******************
-![mkdir] (screenshots/mkdir1.jpg)
+![mkdir](screenshots/mkdir1.jpg)
+![mkdir](screenshots/mkdir2.jpg)
