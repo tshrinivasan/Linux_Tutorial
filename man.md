@@ -3,13 +3,13 @@
 
 man - an interface to the system reference manuals
 
-``````
+```
 man df
 man du
 man uptime
-````````````
+```
 
-## Screeshot
+## Screenshot
 ***************
 
 ![man](screenshot/man.jpg)
