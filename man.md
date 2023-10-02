@@ -12,4 +12,4 @@ man uptime
 ## Screenshot
 ***************
 
-![man](screenshot/man.jpg)
+![man](screenshots/man.jpg)

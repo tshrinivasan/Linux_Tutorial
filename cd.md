@@ -24,5 +24,5 @@ cd
 ## Screenshot
 ***************
 
-![cd](screenshot/cd.jpg)
+![cd](screenshots/cd.jpg)
 
