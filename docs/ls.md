@@ -43,5 +43,5 @@ ls -lt
 
 ## Screenshot
 
-![list](screenshots/list.jpeg)
+![list](screenshots/ls.jpeg)
 
