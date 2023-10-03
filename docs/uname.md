@@ -18,17 +18,17 @@ uname -a
 To print the kernel name
 
 ````
-$ uname -s
+uname -s
 
 ````````
 To print the kernel release
 
 ``````
-$ uname -r
+uname -r
 
 ``````
 
-##Example 
+## Example 
 *********
 
 ![uname](screenshots/uname.jpg)
