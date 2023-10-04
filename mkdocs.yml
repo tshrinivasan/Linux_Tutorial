@@ -4,6 +4,8 @@ theme:
   highlightjs: true
 plugins:
   - search
+  - with-pdf:
+      toc_level: 1
   - mkdocstrings:
       handlers:
         # See: https://mkdocstrings.github.io/python/usage/
